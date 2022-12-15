@@ -124,10 +124,6 @@ section {
   position: relative;
 }
 
-.service .service-img .icon i {
-  font-size: 36px;
-}
-
 .feature i {
   background: -webkit-linear-gradient(#00e0fe, #1107fe);
   -webkit-background-clip: text;
